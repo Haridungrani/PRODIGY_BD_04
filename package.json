@@ -4,7 +4,9 @@
   "description": "��#\u0000 \u0000P\u0000R\u0000O\u0000D\u0000I\u0000G\u0000Y\u0000_\u0000B\u0000D\u0000_\u00000\u00004\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
